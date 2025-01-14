@@ -2,6 +2,7 @@
 // Class 1 - DSA
 public class Main {
 
+    // Recursive function to print numbers from 10 to 1
     public static void PrintNumber(int num){
         if(num < 1){
             return;
